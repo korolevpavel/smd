@@ -2,7 +2,7 @@ ManifestVersion: 1.0
 ProjectKind: Application
 Vendor: smd
 Name: smd
-Version: 1.0-50
-Created: 2025.05.07 14:30:25
+Version: 1.0-54
+Created: 2025.05.15 13:59:20
 BranchName: main
-CommitId: bc6f7a30d6a4c463e7d2e86b0a6a5f57e10c2fc8
+CommitId: 491ed8b636d0b5e149c6ed320c4e63ed47eab6d4
